@@ -4,7 +4,7 @@ public class Main {
     public static int count;
 
     public static void printer(int count){
-        for (int i = 0; i <= count ; i++) {
+        for (int i = 1; i <= count ; i++) {
             System.out.println("This's simple project for GIT");
         }
     }
